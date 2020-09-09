@@ -1,10 +1,12 @@
 # MyReads - A Book Lending App
 MyReads is a book lending app built on top of React. You can organize your books in different shelves. 
 
-There is are shelves.
+There are 3 shelves.
+* `Currently Reading`
 * `Want to Read`
-* `Reading`
 * `Read`
+
+You can move books to different shelves. You can also search for more books by using button in the right bottom corner. The books appearing in the search results can also be moved to the desired shelf.
 
 ### Prerequisites
 
@@ -24,7 +26,7 @@ npm install
 
 ### Running the App
 
-Start the app by enter following command in the project folder
+Start the app by enter following command in terminal when you are in the project folder
 
 ```
 npm start
